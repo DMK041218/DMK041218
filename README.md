@@ -10,7 +10,7 @@ I will join the [UQMM Lab](https://luoyadan.github.io/uqmm/), supervised by [Dr.
 
 ## Research Map
 
-[![Research Map: Data-Centric AI, Video Understanding, AIGC, and Embodied AI](assets/research-map.svg?v=2)](https://dmk041218.github.io/#interests)
+<a href="https://dmk041218.github.io/#interests"><img src="assets/research-map.svg?v=3" width="720" alt="Research Map: Data-Centric AI, Video Understanding, AIGC, and Embodied AI" /></a>
 
 ## Research
 
