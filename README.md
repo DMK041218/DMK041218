@@ -6,7 +6,7 @@ I am a **Software Engineering undergraduate at Universiti Malaya** and an **inco
 
 I will join the [UQMM Lab](https://luoyadan.github.io/uqmm/), supervised by [Dr. Yadan Luo](https://luoyadan.github.io/) and [Prof. Zi Huang](https://staff.itee.uq.edu.au/huang/). During my undergraduate studies, I have worked closely with [Dr. Yuqian Fu](https://yuqianfu.com/).
 
-<a href="https://dmk041218.github.io/"><img src="assets/icons/homepage.svg" width="18" height="18" alt="" /> Homepage</a> · <a href="https://scholar.google.com/citations?user=IfndI8AAAAAJ&amp;hl=zh-CN&amp;view_op=list_works"><img src="assets/icons/scholar.svg" width="18" height="18" alt="" /> Google Scholar</a> · <a href="https://www.linkedin.com/in/dmingkang/"><img src="assets/icons/linkedin.svg" width="18" height="18" alt="" /> LinkedIn</a> · <a href="mailto:dmk72522@gmail.com"><img src="assets/icons/email.svg" width="18" height="18" alt="" /> Email</a>
+<a href="https://dmk041218.github.io/"><img src="assets/icons/homepage.svg" width="18" height="18" alt="" /> Homepage</a> · <a href="https://scholar.google.com/citations?user=IfndI8AAAAAJ&amp;hl=zh-CN&amp;view_op=list_works"><img src="assets/icons/scholar.svg" width="18" height="18" alt="" /> Google Scholar</a> · <a href="https://www.linkedin.com/in/dmingkang/"><img src="assets/icons/linkedin.svg" width="18" height="18" alt="" /> LinkedIn</a> · <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=dmk72522%40gmail.com"><img src="assets/icons/email.svg" width="18" height="18" alt="" /> Email</a>
 
 ## Research Map
 
