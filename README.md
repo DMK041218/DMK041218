@@ -6,7 +6,7 @@ I am a **Software Engineering undergraduate at Universiti Malaya** and an **inco
 
 I will join the [UQMM Lab](https://luoyadan.github.io/uqmm/), supervised by [Dr. Yadan Luo](https://luoyadan.github.io/) and [Prof. Zi Huang](https://staff.itee.uq.edu.au/huang/). During my undergraduate studies, I have worked closely with [Dr. Yuqian Fu](https://yuqianfu.com/).
 
-[Homepage](https://dmk041218.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=IfndI8AAAAAJ) · [LinkedIn](https://www.linkedin.com/in/dmingkang/) · [Email](mailto:dmk72522@gmail.com)
+[Homepage](https://dmk041218.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=IfndI8AAAAAJ&hl=zh-CN&view_op=list_works) · [LinkedIn](https://www.linkedin.com/in/dmingkang/) · [Email](mailto:dmk72522@gmail.com)
 
 ## Research Interests
 
