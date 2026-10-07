@@ -14,23 +14,26 @@ I will join the [UQMM Lab](https://luoyadan.github.io/uqmm/), supervised by [Dr.
 
 ## Experience
 
-<table>
-  <tr>
-    <td align="center" width="64"><img src="assets/logos/uq.png" width="48" height="48" alt="The University of Queensland logo" /></td>
-    <td><a href="https://uq.edu.au/"><strong>The University of Queensland</strong></a><br />Incoming PhD student<br /><sub>School of Electrical Engineering and Computer Science (EECS) · <a href="https://luoyadan.github.io/uqmm/">UQMM Lab</a></sub></td>
-    <td align="right" width="190">Jul. 2027 – Jan. 2031<br /><sub>Expected</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/logos/sjtu.png" width="48" height="48" alt="Shanghai Jiao Tong University logo" /></td>
-    <td><a href="https://en.sjtu.edu.cn/"><strong>Shanghai Jiao Tong University</strong></a><br />Research Assistant</td>
-    <td align="right">Nov. 2025 – Feb. 2026</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/logos/um-crest.svg" width="40" height="50" alt="Universiti Malaya crest" /></td>
-    <td><a href="https://um.edu.my/"><strong>Universiti Malaya</strong></a><br />B.Sc. in Software Engineering</td>
-    <td align="right">Oct. 2023 – Mar. 2027<br /><sub>Expected graduation</sub></td>
-  </tr>
-</table>
+<p>
+  <img align="left" hspace="12" src="assets/logos/uq.png" width="48" height="48" alt="The University of Queensland logo" />
+  <a href="https://uq.edu.au/"><strong>The University of Queensland</strong></a><br />
+  Incoming PhD student · <a href="https://luoyadan.github.io/uqmm/">UQMM Lab</a><br />
+  <sub>Jul. 2027 – Jan. 2031 · Expected</sub>
+</p>
+
+<p>
+  <img align="left" hspace="12" src="assets/logos/sjtu.png" width="48" height="48" alt="Shanghai Jiao Tong University logo" />
+  <a href="https://en.sjtu.edu.cn/"><strong>Shanghai Jiao Tong University</strong></a><br />
+  Research Assistant<br />
+  <sub>Nov. 2025 – Feb. 2026</sub>
+</p>
+
+<p>
+  <img align="left" hspace="12" src="assets/logos/um-crest.svg" width="48" height="48" alt="Universiti Malaya crest" />
+  <a href="https://um.edu.my/"><strong>Universiti Malaya</strong></a><br />
+  B.Sc. in Software Engineering<br />
+  <sub>Oct. 2023 – Mar. 2027 · Expected graduation</sub>
+</p>
 
 ## Research
 
